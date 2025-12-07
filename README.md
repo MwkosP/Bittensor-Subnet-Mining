@@ -6,6 +6,8 @@ Bittensor Subnet Mining for my University Thesis
 This repository is part of my university thesis research on **Bittensor subnet mining**.  
 The project explores the process, performance, and implications of mining within the Bittensor ecosystem.
 
+![Bittensor](image.png)
+
 ## Objectives
 - Study the architecture of Bittensor and its subnet system.  
 - Set up and configure a subnet miner/validator.  
